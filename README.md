@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://i.ibb.co/KjJHBX7/6bh5m-TA6-RV68oq-ANg-Sf-PYw.jpg" alt="mahdirahman356" /> </p>
-
+<h3 align="left">About ME:</h3>
 <h1 align="center">Hi,👋 I'm Kashim Rahman Mahdi</h1>
-<h3 align="center">Hello! I'm Mahdi, a Junior Full-Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, and Node.js). I am dedicated to creating seamless and efficient web applications that deliver an excellent user experience.</h3>
+<h3 align="center">I'm a Junior Full-Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, and Node.js). I am dedicated to creating seamless and efficient web applications that deliver an excellent user experience.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
