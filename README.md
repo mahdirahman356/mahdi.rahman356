@@ -3,6 +3,10 @@
 <h1 align="center">Hi,👋 I'm Kashim Rahman Mahdi</h1>
 <h3 align="center">I'm a Junior Full-Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React, and Node.js). I am dedicated to creating seamless and efficient web applications that deliver an excellent user experience.</h3>
 
+<h3 align="left">Current Status:</h3>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdirahman356&" alt="mahdirahman356" /></p>
+
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
@@ -45,4 +49,3 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
-
